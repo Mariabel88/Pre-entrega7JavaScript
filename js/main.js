@@ -100,5 +100,4 @@ inputBusqueda.addEventListener("input", () => {
   renderizarProductos(filtrados);
 });
 // 8. Carga inicial
-renderizarProductos(catalogoLumen);ga inicial
 renderizarProductos(catalogoLumen);
